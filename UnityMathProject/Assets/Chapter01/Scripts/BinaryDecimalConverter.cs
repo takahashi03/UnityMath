@@ -8,6 +8,7 @@ public class BinaryDecimalConverter : MonoBehaviour
     [SerializeField]
     private InputField inputBinary;    
     private int binary;
+
     // Start is called before the first frame update
     void Start()
     {
